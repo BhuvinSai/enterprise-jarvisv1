@@ -1,0 +1,31 @@
+# Streamlit for web UI
+streamlit>=1.30.0
+
+# Pinecone v3 client
+pinecone>=3.0.0
+
+# Ollama Python SDK
+ollama>=0.1.2
+
+# Sentence Transformers for embeddings
+sentence-transformers>=2.2.2
+
+# dotenv for loading environment variables
+python-dotenv>=1.0.1
+
+# LangChain for chaining LLMs and vector stores
+langchain>=0.1.150
+langchain-community>=0.0.143
+
+# For numerical computations
+numpy>=1.24.0
+pandas>=2.1.0
+
+# Optional: Scikit-learn for similarity search or clustering
+scikit-learn>=1.2.2
+
+# Optional: Requests for API calls
+requests>=2.31.0
+
+# Optional: Rich text formatting in terminal (if needed)
+rich>=13.5.0
